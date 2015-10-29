@@ -10,7 +10,6 @@ import UIKit
 
 extension UIColor {
     
-    
     ///生成随机颜色
     class func randomColor() -> UIColor {
         
